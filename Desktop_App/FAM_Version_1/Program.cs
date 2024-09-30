@@ -1,4 +1,4 @@
-namespace YourProjectName;
+namespace FAM_Desktop;
 
 static class Program
 {
